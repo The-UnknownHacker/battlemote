@@ -121,3 +121,8 @@ After replacing the wiring for the new symbol it looks something like this
 <img width="850" height="475" alt="image" src="https://github.com/user-attachments/assets/f7338159-f124-442d-b058-1584b26f77c7" />
 
 
+After this I rerouted everthing which took me another 4 hours
+
+<img width="1137" height="609" alt="image" src="https://github.com/user-attachments/assets/ce7ce70b-4ea7-4d1f-b83c-ec46a32dead6" />
+
+**Time Taken : 4.5h**
