@@ -107,3 +107,17 @@ I also added this cool silkscreen to the back like so that gives a cool effect
 
 
 **Time taken 4.5h**
+
+# August 6th - Whent back to the schematic to make some changes
+
+After further review I realised I didnt have any xiao's on hand so I needed to modify the schematic to use the ones I did have - ESP32-supermini
+
+I imported the footprint like so 
+
+<img width="329" height="512" alt="image" src="https://github.com/user-attachments/assets/3f089901-ccf8-412e-9c86-67131c207fc5" />
+
+After replacing the wiring for the new symbol it looks something like this
+
+<img width="850" height="475" alt="image" src="https://github.com/user-attachments/assets/f7338159-f124-442d-b058-1584b26f77c7" />
+
+
